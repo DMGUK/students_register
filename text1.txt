@@ -1,0 +1,5 @@
+Bob Higgins 14 7.7
+Tom Jackson 15 9.9
+Alex Smith 14 8.9
+Bill Johnston 15 9.2
+Ted Collins 15 10.1
